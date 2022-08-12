@@ -11,7 +11,7 @@ echo $txt;
 echo "<br>";
 echo $x;
 echo "<br>";
-echo $y;
+echo ;
 ?>
 
 </body>
